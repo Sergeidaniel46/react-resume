@@ -1,0 +1,153 @@
+{
+  "main": {
+    "name":"Full-stack developer",
+    "description":"",
+    "image":"girl.jpg",
+    "bio":"Full Stack Developer with over 10 years of experience in Java/JS, Angular,Vue, React. Proven ability to lead and execute on large-scale web projects,from conception to launch. Specializes in developing high-performance,cross-browser compatible user interfaces using the latest technologies.",
+    "contactmessage":"",
+    "email": "sergeidaniel46@outlook.com",
+    "phone": "+55 (14) 3042-0331",
+    "github":"https://github.com/sergeidaniel46/react-resume",
+    "project":"https://github.com/sergeidaniel46/react-resume",
+    "address":{
+      "street":"Melrose Avenue",
+      "city":"Los Angels",
+      "state":"California",
+      "zip": "90048/2780"
+    },
+    "website": "http://www.timbakerdev.com",
+    "resumedownload":"http://timbakerdev.com",
+    "social":[
+      {
+        "name":"facebook",
+        "url":"https://github.com/sergeidaniel46/react-resume",
+        "className":"fa fa-facebook"
+      },
+      {
+        "name":"twitter",
+        "url":"http://twitter.com",
+        "className":"fa fa-twitter"
+      },
+      {
+        "name":"linkedin",
+        "url":"https://www.linkedin.com/in/tim-baker-8420009a/",
+        "className":"fa fa-linkedin"
+      },
+      {
+        "name":"instagram",
+        "url":"http://instagram.com/tbaker_x",
+        "className":"fa fa-instagram"
+      },
+      {
+        "name":"github",
+        "url":"https://github.com/sergeidaniel46/react-resume",
+        "className":"fa fa-github"
+      }
+    ]
+  },
+  "resume":{
+    "skillmessage":"I have following skills.",
+    "education":[
+      {
+        "school":"Tecnológico de Monterrey",
+        "degree":"B.S in Computer Science",
+        "graduated":"Nov 2012",
+        "description":""
+      }
+    ],
+    "work":[
+      {
+        "company":"Zoey.com",
+        "title":"Full-stack Developer",
+        "years":"Jan 2020 - Mar 2024",
+        "description":[
+          "Develop and maintain front-end code using Javascript, Angular, React.",
+          "Developed indexed database architecture using SQL procedures and triggers for 10 different applications",
+          "Worked with Core Java and Node to develop automated solutions to include web interfaces using HTML, CSS, JavaScript and Web services.",
+          "Develop microservices using SpringBoot and Node for B2B e-commerce and mobile app server"
+        ]
+      },
+      {
+        "company":"Intellectyx.com",
+        "title":"Backend Developer",
+        "years":"Mar 2013 - Dec 2019",
+        "description":[
+          "Develop and maintain web application using JavaScript, Java Spring,MongoDB",
+          "Designed and implemented big data processing architectures",
+          "Increased company revenue by 20% within 2 months after developing and implementing business logic for over 20 features",
+          "Wrote many unit tests to verify functionality of back-end processing"
+        ]
+      }
+    ],
+    "skills":[
+      {
+        "name":"Java",
+        "level":"80%"
+      },
+      {
+        "name":"ReactJs",
+        "level":"70%"
+      },
+      {
+        "name":"VueJs",
+        "level":"55%"
+      },
+      {
+        "name":"NextJs",
+        "level":"50%"
+      },
+      {
+        "name":"TypeScript",
+        "level":"70%"
+      },
+      {
+        "name":"NodeJs",
+        "level":"80%"
+      },
+      {
+        "name":"Swift",
+        "level":"50%"
+      },
+      {
+        "name":"MySQL",
+        "level":"80%"
+      },
+      {
+        "name":"PostgreSQL",
+        "level":"50%"
+      },
+      {
+        "name":"MongoDB",
+        "level":"60%"
+      }
+    ]
+  },
+  "portfolio":{
+    "projects": [
+      {
+        "title":"Canadian Wanderlust",
+        "category":"My Travel Blog for my post-university travels",
+        "image":"01.jpg",
+        "url":"https://www.canadianwanderlust.com"
+      },
+      {
+        "title":"Fury Fighting Gear",
+        "category":"(offline now) A fighting gear company I started",
+        "image":"02.jpg",
+        "url":"http://www.timbakerdev.com"
+      },
+      {
+        "title":"Original Thai Food",
+        "category":"Website I built for a restaurant I like in Thailand",
+        "image":"03.jpg",
+        "url":"http://www.timbakerdev.com/originalthaifood.github.io"
+      },
+      {
+        "title":"Resume Website",
+        "category":"A React based resume website template",
+        "image":"04.jpg",
+        "url":"http://www.timbakerdev.com"
+      }
+    ]
+  }
+}
